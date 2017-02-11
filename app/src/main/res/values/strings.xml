@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Income Tax calc</string>
+    <string name="calc_tax">Calc Tax</string>
+</resources>
